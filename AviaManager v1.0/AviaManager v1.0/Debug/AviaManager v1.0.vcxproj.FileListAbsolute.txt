@@ -1,0 +1,5 @@
+E:\Programming\C++\7. Дубовский Матвей\AviaManager v1.0\AviaManager v1.0\Debug\AviaManager v1.0.exe
+E:\Programming\C++\7. Дубовский Матвей\AviaManager v1.0\AviaManager v1.0\Debug\AviaManager v1.0.pdb
+C:\Users\User\Desktop\7. Дубовский Матвей\AviaManager v1.0\Debug\AviaManager v1.0.pdb
+C:\Users\User\Desktop\7. Дубовский Матвей\AviaManager v1.0\AviaManager v1.0\Debug\AviaManager v1.0.exe
+C:\Users\User\Desktop\7. Дубовский Матвей\AviaManager v1.0\AviaManager v1.0\Debug\AviaManager v1.0.pdb
